@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\kdhrt\.Rider2019.3\config\consoles\db" t="IncludeRecursive" />
+    <e p="C:\Users\kdhrt\.Rider2019.3\config\extensions" t="IncludeRecursive" />
+    <e p="C:\Users\kdhrt\.Rider2019.3\system\extResources" t="IncludeRecursive" />
+    <e p="C:\Users\kdhrt\.Rider2019.3\system\resharper-host\local\Transient\ReSharperHost\v193\SolutionCaches\_LinqConsoleApp.828040866.00" t="ExcludeRecursive" />
+    <e p="C:\Users\kdhrt\OneDrive\Pulpit\LinqConsoleApp" t="IncludeFlat">
+      <e p="LinqConsoleApp" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="Dept.cs" t="Include" />
+        <e p="Emp.cs" t="Include" />
+        <e p="LinqConsoleApp.csproj" t="IncludeRecursive" />
+        <e p="LinqSamples.cs" t="Include" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="LinqConsoleApp.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+      </e>
+      <e p="LinqConsoleApp.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>
